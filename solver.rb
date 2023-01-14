@@ -9,7 +9,7 @@ class Solver
     elsif numbers.zero?
       1
     else
-      'No negative numbers'
+      'No negative num'
     end
   end
 
